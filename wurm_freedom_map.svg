@@ -14,7 +14,7 @@
    height="4096"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="wurm_freedom_map.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -31,17 +31,17 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="1817.5922"
-     inkscape:cy="3383.7036"
+     inkscape:zoom="32"
+     inkscape:cx="2048.7356"
+     inkscape:cy="3347.9636"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1184"
-     inkscape:window-height="1005"
-     inkscape:window-x="92"
-     inkscape:window-y="-4"
+     inkscape:window-width="1024"
+     inkscape:window-height="574"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
      inkscape:object-paths="true">
@@ -4552,6 +4552,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective13369"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -4573,13 +4580,13 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\arc\project\wurm_git\fram.png"
+       sodipodi:absref="/home/ben/arc/project/wurm_git/fram.png"
        xlink:href="fram.png"
-       y="357604"
-       x="-164600"
-       id="image11564"
+       width="4096"
        height="4096"
-       width="4096" />
+       id="image11564"
+       x="-164600"
+       y="357604" />
   </g>
   <g
      transform="translate(164600,-357604)"
@@ -5331,8 +5338,7 @@
      style="display:inline"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="ground"
-     sodipodi:insensitive="true">
+     inkscape:label="ground">
     <rect
        id="use7308"
        y="354977.38"
@@ -65259,6 +65265,27 @@
        x="-164589"
        y="355117.38"
        id="use13114-7" />
+    <rect
+       id="use15867-6-21-6-0-2-4-7-6-8-0-9-1-3-4"
+       y="355204.38"
+       x="-164260"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="use15867-6-21-6-0-2-4-7-6-87-5-5-12-9-0"
+       y="355204.38"
+       x="-164259"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="use15867-6-21-6-0-2-4-7-6-87-5-5-1-3-2-6"
+       y="355204.38"
+       x="-164258"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      transform="translate(164600,-357604)"
@@ -66555,8 +66582,7 @@
        id="path2841"
        style="fill:#694000;fill-opacity:1;fill-rule:nonzero;stroke:#00cc0a;stroke-width:20;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:200;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
-       transform="matrix(0.01,0,0,0.01,-164637,354966.84)"
-       d="m 0,-397.63782 a 0,50 0 1 1 0,0 0,50 0 1 1 0,0 z" />
+       transform="matrix(0.01,0,0,0.01,-164637,354966.84)" />
     <rect
        inkscape:transform-center-y="0.21549802"
        inkscape:transform-center-x="-5.4125"
@@ -71333,7 +71359,7 @@
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.01,0,0,0.01,-162961.99,358087)"
-       d="m 4880,2950 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       d="m 4880,2950 c 0,16.5685 -13.4315,30 -30,30 -16.5685,0 -30,-13.4315 -30,-30 0,-16.5685 13.4315,-30 30,-30 16.5685,0 30,13.4315 30,30 z"
        sodipodi:ry="30"
        sodipodi:rx="30"
        sodipodi:cy="2950"
@@ -71353,7 +71379,7 @@
          sodipodi:role="line">Token and Deed/Perimeter Area</tspan></text>
     <path
        transform="matrix(0.01,0,0,0.01,-162986,358095)"
-       d="m 4880,2950 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       d="m 4880,2950 c 0,16.5685 -13.4315,30 -30,30 -16.5685,0 -30,-13.4315 -30,-30 0,-16.5685 13.4315,-30 30,-30 16.5685,0 30,13.4315 30,30 z"
        sodipodi:ry="30"
        sodipodi:rx="30"
        sodipodi:cy="2950"
@@ -71512,7 +71538,7 @@
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.01,0,0,0.01,-162920.99,358352.98)"
-       d="m 4880,2950 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       d="m 4880,2950 c 0,16.5685 -13.4315,30 -30,30 -16.5685,0 -30,-13.4315 -30,-30 0,-16.5685 13.4315,-30 30,-30 16.5685,0 30,13.4315 30,30 z"
        sodipodi:ry="30"
        sodipodi:rx="30"
        sodipodi:cy="2950"
