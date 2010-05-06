@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +13,7 @@
    height="4096"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.46"
    sodipodi:docname="wurm_freedom_map.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -31,17 +30,17 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="2048.7356"
-     inkscape:cy="3347.9636"
+     inkscape:zoom="22.627418"
+     inkscape:cx="2048.2253"
+     inkscape:cy="3342.2948"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
      inkscape:window-width="1024"
-     inkscape:window-height="574"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-height="675"
+     inkscape:window-x="118"
+     inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
      inkscape:object-paths="true">
@@ -65283,6 +65282,48 @@
        id="use15867-6-21-6-0-2-4-7-6-87-5-5-1-3-2-6"
        y="355204.38"
        x="-164258"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12917"
+       y="355209.31"
+       x="-164254.95"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12919"
+       y="355209.31"
+       x="-164253.95"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12921"
+       y="355209.31"
+       x="-164252.95"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12923"
+       y="355210.28"
+       x="-164253.98"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12925"
+       y="355210.28"
+       x="-164252.98"
+       height="1"
+       width="1"
+       style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       id="rect12927"
+       y="355210.28"
+       x="-164251.98"
        height="1"
        width="1"
        style="fill:#828282;fill-opacity:1;stroke:none;display:inline" />
